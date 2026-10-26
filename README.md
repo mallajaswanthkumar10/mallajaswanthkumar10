@@ -1,6 +1,6 @@
 ### Hi, I'm Jaswanth Kumar Malla
 
-Aspiring Data Engineer focused on building real, working pipelines — not just following tutorials. I like projects that combine solid data engineering fundamentals (ingestion, orchestration, testing) with the newer AI/LLM tooling that's changing how data platforms get built.
+Aspiring Data Engineer focused on building real, working pipelines - not just following tutorials. I like projects that combine solid data engineering fundamentals (ingestion, orchestration, testing) with the newer AI/LLM tooling that's changing how data platforms get built.
 
 **Currently exploring:** streaming data pipelines, retrieval-augmented generation (RAG), and cloud-native data platforms (AWS).
 
@@ -26,7 +26,7 @@ Real-time stock/IoT data pipeline — Kafka, PySpark Structured Streaming (5-min
 Batch ELT pipeline — dbt + DuckDB star schema with 30 automated data quality tests, orchestrated via Dagster, visualized in Streamlit. Runs fully locally end to end, no cloud account needed.
 
 **[personal-knowledge-rag](https://github.com/mallajaswanthkumar10/personal-knowledge-rag)**
-A RAG assistant that answers questions over your own notes using Claude — incremental ingestion, a local vector store, grounded Q&A, and daily digest generation.
+A RAG assistant that answers questions over your own notes using Claude - incremental ingestion, a local vector store, grounded Q&A, and daily digest generation.
 
 #### Connect
 
